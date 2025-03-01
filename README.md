@@ -1,4 +1,4 @@
-### 	ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛ
+# ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛ
 
 <!--
 **izzorts/izzorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
